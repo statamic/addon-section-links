@@ -1,0 +1,10 @@
+#section-links {
+	margin: -1.4em 0 -1.375em;
+	padding: 0 35px;
+}
+
+	#section-links a {
+		display: inline-block;
+		margin: 0 0 0 1em;
+		color: #00c;
+	}
